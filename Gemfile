@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 
-
+gem 'bcrypt',         '3.1.11'
 gem 'bootstrap-sass', '3.3.7'
 
 group :test do
